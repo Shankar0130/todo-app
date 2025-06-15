@@ -1,4 +1,4 @@
-import Greeting from "./greeting";
+
 import Header from "./Header";
 import TodoInput  from "./TodoInput";
 import TodoList from "./TodoList";
